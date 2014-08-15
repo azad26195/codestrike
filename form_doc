@@ -1,0 +1,52 @@
+<html>
+<head></head>
+<body>
+<div class="ss-form">
+    <script type="text/javascript">var submitted=false;</script>
+    <iframe name="hidden_iframe" id="hidden_iframe"
+    style="display:none;" onload="if(submitted)
+    {window.location='http://CONFIRMATION-PAGE.html';}"></iframe>
+    <form action="https://docs.google.com/forms/d/1mmhLg1D96RLphHJBYSCK_BnpX-yxWtoVXReMAxs_ebc/formResponse" method="post"
+    target="hidden_iframe" onsubmit="submitted=true;">
+<div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_155752492"><div class="ss-q-title">name
+</div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.155752492" value="" class="ss-q-short" id="entry_155752492" dir="auto" aria-label="name  " title="">
+<div class="error-message" id="286888620_errorMessage"></div>
+<div class="required-message">This is a required question</div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_1231531534"><div class="ss-q-title">Age
+</div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.1231531534" value="" class="ss-q-short" id="entry_1231531534" dir="auto" aria-label="Age  " title="">
+<div class="error-message" id="695708567_errorMessage"></div>
+<div class="required-message">This is a required question</div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_2107294257"><div class="ss-q-title">Gender
+</div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+
+<ul class="ss-choices" role="radiogroup" aria-label="Gender  "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.2051991493" value="Male" id="group_2051991493_1" role="radio" class="ss-q-radio" aria-label="Male"></span>
+<span class="ss-choice-label">Male</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.2051991493" value="Female" id="group_2051991493_2" role="radio" class="ss-q-radio" aria-label="Female"></span>
+<span class="ss-choice-label">Female</span>
+</label></li></ul>
+<div class="error-message" id="2107294257_errorMessage"></div>
+<div class="required-message">This is a required question</div></div></div></div>
+<input type="hidden" name="draftResponse" value="[,,&quot;-2650613159910156159&quot;]
+">
+<input type="hidden" name="pageHistory" value="0">
+
+
+<input type="hidden" name="fbzx" value="-2650613159910156159">
+
+<div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
+<input type="submit" name="submit" value="Submit" id="ss-submit">
+<div class="ss-password-warning ss-secondary-text">Never submit passwords through Google Forms.</div></td>
+</tr></tbody></table></div></ol></form></div>
+</body>
+</html>
